@@ -1,0 +1,43 @@
+.container:first-child {
+    margin-top:135px;
+}
+
+.content h1{
+    font-size: 70px;
+    color: white;
+}
+
+.content {
+    width: 100px;
+    margin-top:100px;
+}
+
+.asset {
+    margin-top: 300px;
+}
+
+.asset img {
+    width: 528px;
+    height: 788px;
+    margin-right: 200px;
+}
+
+div.col-6:nth-child(2){
+    margin-top: 200px;
+}
+
+.button {
+    width: 175px;
+    height: 60px;
+    background-color: #0c1821;
+    border: solid gainsboro 1px;
+    color: white;
+}
+
+.about{
+    font-size: 20px;
+    border-top: solid #00a1e0 7px;
+    padding: 20px;
+    padding-left: 0;
+    margin-top: 120px;
+}

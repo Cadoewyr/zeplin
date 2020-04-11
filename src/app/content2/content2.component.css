@@ -1,0 +1,23 @@
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.row img {
+    display: block;
+    position: absolute;
+    opacity: 0.7;
+    background-color: #0c1821;
+}
+
+.row div {
+    margin-top: 300px;
+}
+
+h1 {
+    font-size: 90px;
+}
+
+h4 {
+    font-size: 30px;
+}

@@ -1,0 +1,11 @@
+.row {
+    background-color: #ffffff;
+}
+
+.row img {
+    margin-top: 100px;
+}
+
+.row img:first-child {
+    margin-left: 250px;
+}
